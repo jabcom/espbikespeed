@@ -1,5 +1,5 @@
 #define UPDATE_FREQUENCY 1;
-#define GAME_IP "192.168.50.122";
+#define GAME_IP "###";
 #define DATA_AVERAGE_COUNT 3;
 
 float speedDataArr[DATA_AVERAGE_COUNT];
