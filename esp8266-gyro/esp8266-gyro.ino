@@ -12,9 +12,9 @@
 #define PIN_SDA 1
 #define PIN_LED 2
 #define DEFAULT_UPDATEFREQUENCY 90
-#define DEFAULT_SSID "HomeNet"
-#define DEFAULT_PASSWORD "treaclewifi"
-#define DEFAULT_VRHOST "192.168.50.91"
+#define DEFAULT_SSID "###"
+#define DEFAULT_PASSWORD "###"
+#define DEFAULT_VRHOST "###"
 #define DEFAULT_VRPORT 36140
 #define DEFAULT_WHEELRADIUS 3302
 #define EEPROM_SETTINGS_VERSION 2
