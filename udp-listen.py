@@ -1,7 +1,7 @@
 import socket
 import sys
 
-ip = "192.168.50.91"
+ip = "###"
 port = 36140
 
 
