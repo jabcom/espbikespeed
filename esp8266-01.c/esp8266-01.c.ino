@@ -7,8 +7,8 @@
 
 #ifndef STASSID
 #define EEPROM_DISTANCE 0
-#define STASSID "HomeNet"
-#define STAPSK  "treaclewifi"
+#define STASSID "###"
+#define STAPSK  "###"
 #endif
 
 const char* ssid = STASSID;
@@ -21,7 +21,7 @@ WiFiUDP Udp;
 int lastZeroTime = 0;
 int zeroFrequency = 200;
 int packetFrequency = 1000;
-char* vrHost = "192.168.050.091";
+char* vrHost = "###";
 unsigned short vrPort = 5505;
 unsigned short stoppingRateMax = 3;
 unsigned short stoppingRateCurrent = 0;
